@@ -42,9 +42,24 @@ ________________________________________________________________________________
 
 
 
-#### Needed components
+## Components 
 
-* Flight controller
+Brushless Motor: 	EA CHINE 2300KV (With speed controller)         x 4
+
+Radio Controller:  	TURNIGY TGY - i4X ()
+
+Transmitter: 		Spektrum AR636B 6CH SPORT RECEIVER 
+
+Fight controller:
+
+Battery:
+
+Camera:
+
+Props x 4
+
+3D printed frame
+
 
 
 
