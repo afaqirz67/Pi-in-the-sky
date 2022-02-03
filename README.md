@@ -3,7 +3,7 @@
 
 Table of Contents:
 * [PLANNING](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#planning)
-* [Resources](Recourse)
+* [RESOURCES](Recourse)
 
 
 ## Planning
