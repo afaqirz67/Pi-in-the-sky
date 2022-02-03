@@ -48,6 +48,9 @@ ________________________________________________________________________________
 ### Components 
 
 Brushless Motor: 	  [EA CHINE 2300KV](https://www.eachine.com/Eachine-2205-MN2205-2300KV-2-4S-Motor-For-Eachine-Wizard-X220-X210-250-280-FPV-Racing-Frame-p-642.html)      
+KV: 2300
+RPM = kv*volts
+
 
 Speed Controller Model: [EFM8BB-20A-4S-V13](https://www.google.com/search?q=EFM8BB-20A-4S-V13&rlz=1C1GCEU_enUS970US970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivi-305-P1AhWTqXIEHe2bCiUQ_AUoAXoECAEQAw&biw=1924&bih=959&dpr=1)
 
