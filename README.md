@@ -29,7 +29,7 @@ https://droneomega.com/drone-motor-essentials/
 
 https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/
 
-
+_____________________________________________________________________________________
 
 #### Online Resources:
 
