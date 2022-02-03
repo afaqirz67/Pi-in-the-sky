@@ -31,7 +31,9 @@ https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/
 
 
 
+#### Online Resources:
 
+https://www.youtube.com/watch?v=bCEiOnuODac
 
 
 
