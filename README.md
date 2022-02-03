@@ -66,6 +66,7 @@ Props x 4
 
 
 Recourse 
+
 Drone motor calculator 
 https://www.omnicalculator.com/other/drone-motor
 Info on Weight Ratio
