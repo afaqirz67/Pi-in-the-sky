@@ -45,13 +45,15 @@ ________________________________________________________________________________
 
 ### Components 
 
-Brushless Motor: 	  [EA CHINE 2300KV](https://www.eachine.com/Eachine-2205-MN2205-2300KV-2-4S-Motor-For-Eachine-Wizard-X220-X210-250-280-FPV-Racing-Frame-p-642.html) (With speed controller)        
+Brushless Motor: 	  [EA CHINE 2300KV](https://www.eachine.com/Eachine-2205-MN2205-2300KV-2-4S-Motor-For-Eachine-Wizard-X220-X210-250-280-FPV-Racing-Frame-p-642.html)      
+
+Speed Controller Model: [EFM8BB-20A-4S-V13](https://www.google.com/search?q=EFM8BB-20A-4S-V13&rlz=1C1GCEU_enUS970US970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivi-305-P1AhWTqXIEHe2bCiUQ_AUoAXoECAEQAw&biw=1924&bih=959&dpr=1)
 
 Radio Controller:  	[TURNIGY TGY - i4X](https://hobbyking.com/en_us/turnigy-tgy-i4x-mode-2-afhds-afhds-2a-switchable-4ch-transmitter-receiver.html)
 
 Transmitter: 	      [Spektrum AR636B 6CH SPORT RECEIVER](https://www.horizonhobby.com/product/ar636b-dsmx-6-channel-as3x-sport-receiver/SPMAR636B.html) 
 
-Fight controller:
+Fight controller: 
 
 Battery:
 
