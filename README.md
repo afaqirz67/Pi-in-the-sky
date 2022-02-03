@@ -7,24 +7,24 @@ Table of Contents:
 
 ## Planning
 
-Problem:
+#### Problem:
 We have to make some sort of electronic creation using a raspberry pi that flies into the air and records when it is at its apex height. It must also record some extra data.
 
-General idea:
+#### General idea:
 Me and Asad want to make a drone using a pi that flies into the air and has a compartment that can drop things. aLthough it sounds simple, we want the drone to have a specific function. It should drop seeds to help the environment or have extra long battery life in order to be able to deliver things.
 
-Main anticipated problems:
+##### Main anticipated problems:
 The idea of a drone with a controller relies on radio communication with the drone. We have no idea how that works so we have to learn about it and overcome any obstacles we may encounter when using the radio communication and the raspberry pie.
 Drones are very hard to make and if we want to have a special drone, it will take lots of tests and therefore time. This project will take tons of research to fully complete. We will have to specifically research each aspect of the project and plan out the physics of it. 
 Live streaming of 360 cameras with VR is another obstacle to be overcomed and needs a significant amount of research and analysis.
 
 
 
-Very Rough Sketches:
+#### Very Rough Sketches:
 
 https://www.youtube.com/watch?v=LVoPGlNvHhw   (Example of how our model will look like
 
-Very Rough Designs 
+#### Very Rough Designs 
 https://droneomega.com/drone-motor-essentials/
 
 https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/
@@ -42,9 +42,9 @@ ________________________________________________________________________________
 
 
 
-Needed components
+#### Needed components
 
-Flight controller
+* Flight controller
 
 
 
