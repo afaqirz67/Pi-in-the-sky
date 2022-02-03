@@ -66,7 +66,7 @@ Frame:           will be 3d printed
 
 
 
-### Recourse 
+## Recourse 
 
 Drone motor calculator 
 https://www.omnicalculator.com/other/drone-motor
@@ -86,7 +86,8 @@ Motor model: SAMGUK serious KV 2300
 ![pasted image 0](https://user-images.githubusercontent.com/56890879/152362260-7c9233a2-e19b-481a-9829-89f53286319e.png)
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/56890879/152362281-9065dfec-2e47-4a7a-8d15-e1356836e820.png)
 
-
+### Parts Explained:
+[Flight Controller](https://fusion.engineering/flight-controllers-explained-for-everyone/)
 
 ### SPICY PART:
 
