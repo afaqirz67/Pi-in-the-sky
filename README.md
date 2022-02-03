@@ -65,7 +65,7 @@ Props x 4
 
 
 
-Recourse 
+### Recourse 
 
 Drone motor calculator 
 https://www.omnicalculator.com/other/drone-motor
