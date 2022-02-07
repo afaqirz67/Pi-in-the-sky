@@ -5,6 +5,7 @@ Table of Contents:
 * [CONSTRAINS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#constraints)
 * [IDEAS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#ideas)
 * [SOLUTION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#solution)
+* [COMPONENTS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#components)
 * [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resourses)
 * [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
 
