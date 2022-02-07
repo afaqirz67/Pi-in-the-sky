@@ -21,7 +21,7 @@ Drones are very hard to make and if we want to have a special drone, it will tak
 Live streaming of 360 cameras with VR is another obstacle to be overcomed and needs a significant amount of research and analysis
 
 ### Ideas
-### Gravity Sensor vs. Accelerometer (research):
+#### Gravity Sensor vs. Accelerometer (research):
 
 ________________________________________________________________________________________________
 
