@@ -18,11 +18,11 @@ Me and Asad want to make a drone using a pi that flies into the air and has a co
 * The idea of a drone with a controller relies on radio communication with the drone. We have no idea how that works so we have to learn about it and overcome any obstacles we may encounter when using the radio communication and the raspberry pie.
 Drones are very hard to make and if we want to have a special drone, it will take lots of tests and therefore time. This project will take tons of research to fully complete. We will have to specifically research each aspect of the project and plan out the physics of it. 
 Live streaming of 360 cameras with VR is another obstacle to be overcomed and needs a significant amount of research and analysis.
-* We may want to control the drone using just the movment of our hand. This is a very rough idea and we will work on it once we know we can make a working drone. 
 
 
 ### Gravity Sensor vs. Accelerometer (research):
 
+________________________________________________________________________________________________
 
 #### Very Rough Sketches:
 
@@ -33,19 +33,7 @@ https://droneomega.com/drone-motor-essentials/
 
 https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/
 
-_____________________________________________________________________________________
-
-#### Online Resources:
-
-* https://www.youtube.com/watch?v=bCEiOnuODac
-* https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
-
-
-____________________________________________________________________________________
-
-
-
-
+________________________________________________________________________________________________
 
 ### Components 
 
@@ -72,10 +60,17 @@ Frame:           will be 3d printed
 
 
 
-
+________________________________________________________________________________________________
 
 
 ## Recourse 
+
+
+#### Online Info:
+
+* https://www.youtube.com/watch?v=bCEiOnuODac
+* https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
+
 
 Drone motor calculator 
 https://www.omnicalculator.com/other/drone-motor
@@ -98,8 +93,10 @@ Motor model: SAMGUK serious KV 2300
 ### Parts Explained:
 [Flight Controller](https://fusion.engineering/flight-controllers-explained-for-everyone/)
 
+________________________________________________________________________________________________
+
 ### SPICY PART:
 
-Gesture control over the drone. We are thinking about using accelerometers or medical chip[s to match the movement of our hand to the movement of the drone.
-
+Gesture control over the drone. We are thinking about using accelerometers or medical chips to match the movement of our hand to the movement of the drone.
+We may want to control the drone using just the movment of our hand. This is a very rough idea and we will work on it once we know we can make a working drone. 
 
