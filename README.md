@@ -4,7 +4,7 @@
 Table of Contents:
 * [CONSTRAINS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#constraints)
 * [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resourses)
-* [RISK MIDIGATION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#ris-midigation)
+* [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
 
 
 
@@ -61,15 +61,15 @@ Radio Controller:  	[TURNIGY TGY - i4X](https://hobbyking.com/en_us/turnigy-tgy-
 
 Transmitter: 	      [Spektrum AR636B 6CH SPORT RECEIVER](https://www.horizonhobby.com/product/ar636b-dsmx-6-channel-as3x-sport-receiver/SPMAR636B.html) 
 
-Fight controller: 
+Fight controller:   
 
-Battery:
+Battery:            Lipo
 
-Camera:
+Camera:             Potentially, a 4k gopro
 
 Props:
 
-Frame:           will be 3d printed
+Frame:              will be 3d printed
 
 
 
@@ -109,5 +109,5 @@ safety glasses will be worn all the time specially while flying in close distanc
 improve it's saftey of itself and its surroundings. Another point that will be taken into consideratin is clearing the flight and take off space and flying in hazardous 
 situations must be avoided.
 
-### Initial design (pencil and paper, CAD, etc.)
+## Initial design (pencil and paper, CAD, etc.)
 
