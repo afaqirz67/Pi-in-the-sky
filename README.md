@@ -2,7 +2,7 @@
 
 
 Table of Contents:
-* [PLANNING](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#planning)
+* [Constrains](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#constraints)
 * [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#recourse)
 * [RISK MIDIGATION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#ris-midigation)
 
