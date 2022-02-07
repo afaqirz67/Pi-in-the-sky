@@ -9,7 +9,7 @@ Table of Contents:
 
 
 ## Planning 
-### Problem or goal
+### Goal
 We have to make some sort of electronic creation using a raspberry pi that flies into the air and records data when it is at its apex height.data.
 
 We want to make a drone using a pi that flies into the air and has a compartment that can drop things. aLthough it sounds simple, we want the drone to have a specific 
