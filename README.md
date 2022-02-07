@@ -7,20 +7,20 @@ Table of Contents:
 * [RISK MIDIGATION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#ris-midigation)
 
 
-## Planning
 
-#### Problem:
-We have to make some sort of electronic creation using a raspberry pi that flies into the air and records when it is at its apex height. It must also record some extra data.
+## Planning 
+### Problem or goal
+We have to make some sort of electronic creation using a raspberry pi that flies into the air and records data when it is at its apex height.data.
 
-#### General idea:
-Me and Asad want to make a drone using a pi that flies into the air and has a compartment that can drop things. aLthough it sounds simple, we want the drone to have a specific function. It should drop seeds to help the environment or have extra long battery life in order to be able to deliver things.
+We want to make a drone using a pi that flies into the air and has a compartment that can drop things. aLthough it sounds simple, we want the drone to have a specific 
+function. It should drop seeds to help the environment or have extra long battery life in order to be able to deliver things.
 
-#### Main anticipated problems:
+### Constraints
 * The idea of a drone with a controller relies on radio communication with the drone. We have no idea how that works so we have to learn about it and overcome any obstacles we may encounter when using the radio communication and the raspberry pie.
 Drones are very hard to make and if we want to have a special drone, it will take lots of tests and therefore time. This project will take tons of research to fully complete. We will have to specifically research each aspect of the project and plan out the physics of it. 
-Live streaming of 360 cameras with VR is another obstacle to be overcomed and needs a significant amount of research and analysis.
+Live streaming of 360 cameras with VR is another obstacle to be overcomed and needs a significant amount of research and analysis
 
-
+### Ideas
 ### Gravity Sensor vs. Accelerometer (research):
 
 ________________________________________________________________________________________________
@@ -34,7 +34,19 @@ https://droneomega.com/drone-motor-essentials/
 
 https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/
 
+### Solution
+
+
+
 ________________________________________________________________________________________________
+
+### SPICY PART:
+
+Gesture control over the drone. We are thinking about using accelerometers or medical chips to match the movement of our hand to the movement of the drone.
+We may want to control the drone using just the movment of our hand. This is a very rough idea and we will work on it once we know we can make a working drone. 
+
+Another idea is to use gravity sensor for the hand gesture flight control, but we do not have prior knowledge of how this system of flight in drones work. We will need to dig 
+deep into that. The concerning part for the moment is figuring out the exact boards and chips we will use and also the communication between the drone and your hand.
 
 ### Components 
 
@@ -66,9 +78,6 @@ ________________________________________________________________________________
 
 ## Resourses
 
-
-#### Online Info:
-
 * https://www.youtube.com/watch?v=bCEiOnuODac
 * https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
 
@@ -94,13 +103,11 @@ Motor model: SAMGUK serious KV 2300
 ### Parts Explained:
 [Flight Controller](https://fusion.engineering/flight-controllers-explained-for-everyone/)
 
-________________________________________________________________________________________________
 
-### SPICY PART:
+## Safety protocols
+safety glasses will be worn all the time specially while flying in close distance and lower altitude. We thought of giving the drone an obsticale avoiding functionality to 
+improve it's saftey of itself and its surroundings. Another point that will be taken into consideratin is clearing the flight and take off space and flying in hazardous 
+situations must be avoided.
 
-Gesture control over the drone. We are thinking about using accelerometers or medical chips to match the movement of our hand to the movement of the drone.
-We may want to control the drone using just the movment of our hand. This is a very rough idea and we will work on it once we know we can make a working drone. 
+### Initial design (pencil and paper, CAD, etc.)
 
-## Ris Midigation
-
-safety glasses
