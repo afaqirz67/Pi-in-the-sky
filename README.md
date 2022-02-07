@@ -113,5 +113,8 @@ improve it's saftey of itself and its surroundings. Another point that will be t
 situations must be avoided.
 
 ## Initial design (pencil and paper, CAD, etc.)
+In Progress..
+
+
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
