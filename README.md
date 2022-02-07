@@ -101,3 +101,6 @@ ________________________________________________________________________________
 Gesture control over the drone. We are thinking about using accelerometers or medical chips to match the movement of our hand to the movement of the drone.
 We may want to control the drone using just the movment of our hand. This is a very rough idea and we will work on it once we know we can make a working drone. 
 
+## Ris Midigation
+
+safety glasses
