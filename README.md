@@ -113,7 +113,9 @@ improve it's saftey of itself and its surroundings. Another point that will be t
 situations must be avoided.
 
 ## Initial design (pencil and paper, CAD, etc.)
-In Progress..
+Rough sketch of how the drone will look. There will be surly more details and changes init but the this is the basic shape.
+
+![drone initial design](https://user-images.githubusercontent.com/56890879/153009067-8bd03551-53f3-48ce-b433-81b0a0c2a3e0.png)
 
 
 
