@@ -58,21 +58,20 @@ KV: 2300
 RPM = kv*volts
 
 
-Speed Controller Model: [EFM8BB-20A-4S-V13](https://www.google.com/search?q=EFM8BB-20A-4S-V13&rlz=1C1GCEU_enUS970US970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivi-305-P1AhWTqXIEHe2bCiUQ_AUoAXoECAEQAw&biw=1924&bih=959&dpr=1)
+[Speed Controller Model](https://www.google.com/search?q=EFM8BB-20A-4S-V13&rlz=1C1GCEU_enUS970US970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivi-305-P1AhWTqXIEHe2bCiUQ_AUoAXoECAEQAw&biw=1924&bih=959&dpr=1)
 
-Radio receiver:  	[TURNIGY TGY - i4X](https://hobbyking.com/en_us/turnigy-tgy-i4x-mode-2-afhds-afhds-2a-switchable-4ch-transmitter-receiver.html)
+[Radio receiver](https://hobbyking.com/en_us/turnigy-tgy-i4x-mode-2-afhds-afhds-2a-switchable-4ch-transmitter-receiver.html)
 
-Transmitter: 	      [Spektrum AR636B 6CH SPORT RECEIVER](https://www.horizonhobby.com/product/ar636b-dsmx-6-channel-as3x-sport-receiver/SPMAR636B.html) 
+[Transmitter](https://www.horizonhobby.com/product/ar636b-dsmx-6-channel-as3x-sport-receiver/SPMAR636B.html) 
 
 Fight controller:   
 
 Battery:            Lipo
 
-Camera:             [Link](https://www.google.com/url?q=https://s.click.aliexpress.com/deep_link.htm%3Faff_short_key%3DUneMJZVf%26dl_target_url%3Dhttps%253A%252F%252Fwww.aliexpress.com%252Fitem%252F4000171233203.html%253F_randl_currency%253DUSD%2526_randl_shipto%253DUS%2526src%253Dgoogle&sa=U&ved=0ahUKEwjqufnkgIf2AhVjUN8KHfekDxkQwSsInQE&usg=AOvVaw3PkUgEBEbUbMT0fHE1cbM6)
+[Camera](https://www.google.com/shopping/product/1?q=wifi+module+for+drones&prds=epd:3335392841495737051,eto:3335392841495737051_0,pid:3335392841495737051&sa=X&ved=0ahUKEwiOivyMgYf2AhXAl3IEHZFsCxgQ9pwGCAk)
 
-Props:
+[Props](https://www.google.com/shopping/product/1?q=propellers+drone&bih=937&biw=1920&rlz=1C1GCEU_enUS969US970&hl=en&prds=eto:2152026255289366735_1,pid:2152026255289366735)
 
-Frame:              will be 3d printed
 
 
 
