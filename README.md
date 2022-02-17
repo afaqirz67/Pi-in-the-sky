@@ -64,7 +64,7 @@ RPM = kv*volts
 
 [Transmitter](https://www.horizonhobby.com/product/ar636b-dsmx-6-channel-as3x-sport-receiver/SPMAR636B.html) 
 
-Fight controller:   
+[Fight controller](https://www.giogird.com/product/30-5x30-5mm-jhemcu-f7bt-dual-gyro-f722-f7-2-6s-flight-controller-aio-osd-5v-8v-bec-support-bluetooth-dji-air-unit-for-rc-drone/)   
 
 Battery:            Lipo
 
