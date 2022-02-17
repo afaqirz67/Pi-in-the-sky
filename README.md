@@ -58,7 +58,7 @@ KV: 2300
 RPM = kv*volts
 
 
-[Speed Controller Model](https://www.google.com/search?q=EFM8BB-20A-4S-V13&rlz=1C1GCEU_enUS970US970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivi-305-P1AhWTqXIEHe2bCiUQ_AUoAXoECAEQAw&biw=1924&bih=959&dpr=1)
+[Speed Controller Model](https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=as_li_ss_tl?ie=UTF8&qid=1549129228&sr=8-5&keywords=esc+30a&linkCode=sl1&tag=howto045-20&linkId=e1a4f6875272396432e2554f55ee0113&language=en_US)
 
 [Radio receiver](https://hobbyking.com/en_us/turnigy-tgy-i4x-mode-2-afhds-afhds-2a-switchable-4ch-transmitter-receiver.html)
 
