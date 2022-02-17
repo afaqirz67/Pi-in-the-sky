@@ -68,7 +68,7 @@ Fight controller:
 
 Battery:            Lipo
 
-Camera:             Potentially, a 4k gopro
+Camera:             [Link](https://www.google.com/url?q=https://s.click.aliexpress.com/deep_link.htm%3Faff_short_key%3DUneMJZVf%26dl_target_url%3Dhttps%253A%252F%252Fwww.aliexpress.com%252Fitem%252F4000171233203.html%253F_randl_currency%253DUSD%2526_randl_shipto%253DUS%2526src%253Dgoogle&sa=U&ved=0ahUKEwjqufnkgIf2AhVjUN8KHfekDxkQwSsInQE&usg=AOvVaw3PkUgEBEbUbMT0fHE1cbM6)
 
 Props:
 
