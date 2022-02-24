@@ -6,7 +6,7 @@ Table of Contents:
 * [IDEAS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#ideas)
 * [SOLUTION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#solution)
 * [COMPONENTS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#components)
-* [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resourses)
+* [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resources)
 * [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
 
 
@@ -78,7 +78,7 @@ Battery:            Lipo
 ________________________________________________________________________________________________
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
 
-## Resourses
+## Resources
 
 * https://www.youtube.com/watch?v=bCEiOnuODac
 * https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
