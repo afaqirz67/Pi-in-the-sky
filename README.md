@@ -94,6 +94,9 @@ https://top-10-drones.com/choose-motor-propeller-quadcopter/
 Motor specifications
 https://www.getfpv.com/dys-samguk-series-wei-2207-2300kv-motor.html
 
+ESC specs:
+https://www.rcelectricparts.com/30a-rc-brushless-motor-electric-speed-controller-esc-3a-ubec-with-xt60--35mm-bullet-plugs.html
+
 2300kv
 https://ae01.alicdn.com/kf/HTB1Wqs_gPqhSKJjSspnxh779XXak.jpeg
 
