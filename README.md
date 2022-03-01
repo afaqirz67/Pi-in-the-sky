@@ -123,6 +123,10 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 ![drone initial design](https://user-images.githubusercontent.com/56890879/153009067-8bd03551-53f3-48ce-b433-81b0a0c2a3e0.png)
 ## Deadlines
 
+![drone-deadlines](https://user-images.githubusercontent.com/56890879/156189351-133df5f4-e2e4-4c17-a8d2-8cc43b7c152e.png)
+
+
+
 ## Weekly Progress
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
