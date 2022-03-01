@@ -8,6 +8,7 @@ Table of Contents:
 * [COMPONENTS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#components)
 * [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resources)
 * [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
+* [Deadlines]()
 * [WEEKLY PROGRESS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#weekly-progress)
 
 
@@ -120,6 +121,7 @@ situations must be avoided.
 Rough sketch of how the drone will look. There will be surly more details and changes init but the this is the basic shape.
 
 ![drone initial design](https://user-images.githubusercontent.com/56890879/153009067-8bd03551-53f3-48ce-b433-81b0a0c2a3e0.png)
+## Deadlines
 
 ## Weekly Progress
 
