@@ -10,6 +10,7 @@ Table of Contents:
 * [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
 * [DEADLINES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#deadlines)
 * [WEEKLY PROGRESS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#weekly-progress)
+* [Change in Plan](https://github.com/afaqirz67/Pi-in-the-sky/edit/main/README.md#change-in-plan)
 
 
 
@@ -128,5 +129,7 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 
 
 ## Weekly Progress
+
+## Change in Plan
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
