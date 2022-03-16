@@ -75,6 +75,7 @@ Battery:            Lipo
 
 [Props](https://www.google.com/shopping/product/1?q=propellers+drone&bih=937&biw=1920&rlz=1C1GCEU_enUS969US970&hl=en&prds=eto:2152026255289366735_1,pid:2152026255289366735)
 
+[Battery Connector](https://www.amazon.com/Connector-Extension-RC-Helicopter-Quadcopter/dp/B0754JKHWW/ref=sr_1_3_sspa?keywords=xt60+parallel+connector&qid=1647396029&sprefix=xt60+para%2Caps%2C93&sr=8-3-spons&psc=1&smid=A2G15BXXX6915N&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNUdOMlo1TUtGUzE1JmVuY3J5cHRlZElkPUEwMDQ1MjcxS1lEMlJLQUZGUUFLJmVuY3J5cHRlZEFkSWQ9QTEwMTcwOTkxMzZBMTE1TFRaVDFIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 
 
