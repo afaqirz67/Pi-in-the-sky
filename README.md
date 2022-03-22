@@ -112,10 +112,12 @@ Motor model: SAMGUK serious KV 2300
 ![pasted image 0](https://user-images.githubusercontent.com/56890879/152362260-7c9233a2-e19b-481a-9829-89f53286319e.png)
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/56890879/152362281-9065dfec-2e47-4a7a-8d15-e1356836e820.png)
 
-### Parts Explained:
+## Parts Explained:
 [Flight Controller](https://fusion.engineering/flight-controllers-explained-for-everyone/)
 
-### RC Communication Protocols
+
+### RC Communication Protocols 
+-------------------------------
 RC communication protocol is way of communication between the reciever to transimiter/trasmiter to the controller(FC in our case). The ability of the commponents to be
 able to commuinicate through a common protocol is a must, otherwise they won't be able to work with each other. 
 
@@ -174,12 +176,19 @@ Smoothing is not required because there is little to no error.
 - RX and TX protocols may use a common communication protocol, or they might use two different protocols
 
 ![Tx-RX-communication-protocol-visual](https://user-images.githubusercontent.com/56890879/159382147-fa7824d7-28be-4d57-9c04-29e66ac1e0ae.jpg)
-Image from: https://oscarliang.com/rc-protocols/
-Other sources:
-http://paulnurkkala.com/pwmppms-bus/
+Image from:
+
 https://oscarliang.com/rc-protocols/
 
+Other sources:
+
+http://paulnurkkala.com/pwmppms-bus/
+
+https://oscarliang.com/rc-protocols/
+
+
 ## Safety protocols
+
 safety glasses will be worn all the time specially while flying in close distance and lower altitude. We thought of giving the drone an obsticale avoiding functionality to 
 improve it's saftey of itself and its surroundings. Another point that will be taken into consideratin is clearing the flight and take off space and flying in hazardous 
 situations must be avoided.
