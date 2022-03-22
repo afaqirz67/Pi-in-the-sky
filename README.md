@@ -114,6 +114,69 @@ Motor model: SAMGUK serious KV 2300
 ### Parts Explained:
 [Flight Controller](https://fusion.engineering/flight-controllers-explained-for-everyone/)
 
+### RC Communication Protocols
+RC communication protocol is way of communication between the reciever to transimiter/trasmiter to the controller(FC in our case). The ability of the commponents to be
+able to commuinicate through a common protocol is a must, otherwise they won't be able to work with each other. 
+
+#### There are two types of RC protocols:
+* TX protocol
+Communication between (Tx) the radio transmitter and radio reciever
+
+* RX protocol 
+communication between (RX) the radio reciver and (flight) controller
+
+
+#### Common Rx (radio reciever & FC) Transm protocol communication
+#### PWM
+PWM stands for Puls width modulation, is the analog signal interface. PWM uses separate wires for each channel. PWM is the only protocol capable of direct 
+communication to servo/ESC since the signals won't have to be interperted to the servos/ESCs. Pulse-width-modulation is a process by which signals are sent down the
+signal line from the receiver to the device that to which communication is needed. The signal forms “pulses” by sending precicely separated bursts of signal, the
+distance between which will give different commands to the servos or speed controllers.  With a servo, the separation of the signal will determine the angle that the 
+servo is supposed to have, and for a speed controller, it tells it the speed at which it’s supposed to spin the motor. The downside of using PWM is it requires a 
+seperate wire for each channel. It's extra weight for the drone, and looks messy.
+
+#### PPM/CPPM
+PPM stands for “pulse position modulation”. PPM iterates the signal through all channels and sends the signals to the specific routes and distinations which gives it 
+the capablity of using only one wire to do it. The reciever and FC have to know how many channels to expect, so they know how to read the signal by iterating the 
+signal through the expected number of channels and sending the signal to each specific channel. The flight controller then reads each of the signals in sequence, and 
+then reads the pulse width of each channel, setting that as the value for the channel. The signals are still analog but are transmitted in a nearly digital way.
+
+A PPM signal is basically a series of PWM signals sent one after another on the same wire, and modulated differently. The advantage of PPM over PWM is that only one  
+single wire is needed for several channels. So typically, you would only need to connect the ground, power and signalwires for up to 8 channels.As the channel values 
+don’t arrive at the same time, it’s not as accurate or jitter-free as serial communications.
+
+##### Serial Protocol
+A serial protocol is a digital loss-less protocol that uses only 3 wires (signal, power, ground) for multiple channels. Unlike PPM which is a signal in time domain, serial protocols are completely digital which means they are made up of a bunch of one’s and zero’s.
+
+Serial protocols require a serial port on the flight controller known as UART.
+
+##### Analog vs Digital communication protocol
+One downside of analog signals like PPM and PWM is that the signal is potentially “lossy.” Occasionally in transmission, data can be false or erroneous due to 
+thousands of potential interferences. When this happens in an analog signal, there’s zero way for the flight controller to know that a particular value has error. As a 
+result, the flight controller is responsible for executing what is called a “3 frame rolling average.” Essentially, what this provides is a “smoothing” factor over 
+values given from the receiver such that any erroneous values don’t affect performance of the machine is extremely adverse ways (i.e. temporarily cut throttle, or turn 
+one motor all the way up for a split second).
+
+#### S.BUS
+S.BUS, the S standing for Serial can supports up to 16 channels using only one signal wire. SBUS signal should be connected to the RX pin of an UART.S.BUS uses the 
+UART communication ports to send the one-way SBUS signal from the receiver to the flight controller. UART traditionally has 5v, gnd, rx and tx, but S.BUS only requires 
+the ability to send the signal from the receiver to the flight controller, so many flight controllers now are creating a dedicated UART port that only has input, 
+simplifying the connection process for the user  hooking up the receivers.As a result of this, like with PPM, S.BUS requires only one cable running from the receiver to the flight controller, and across this all channels will be transported.
+
+In addition, because of a digital signal, we have the ability to take advantage of what are called “checksums.” These are clever little pieces of information that are 
+sent along with each message to the receiver that tell it whether or not the value received had an error state. The analog signals from PPM have to be accepted by the 
+flight controller because there is no possibility for checksum with analog signals.As a result, the SBUS connection doesn’t require a 3 frame average, bringing its 
+response time down to around 9ms, while PPM stays in the 50+ range. In in addition, RC 
+Smoothing is not required because there is little to no error.
+
+
+- RX and TX protocols may use a common communication protocol, or they might use two different protocols
+
+![Tx-RX-communication-protocol-visual](https://user-images.githubusercontent.com/56890879/159382147-fa7824d7-28be-4d57-9c04-29e66ac1e0ae.jpg)
+Image from: https://oscarliang.com/rc-protocols/
+Other sources:
+http://paulnurkkala.com/pwmppms-bus/
+https://oscarliang.com/rc-protocols/
 
 ## Safety protocols
 safety glasses will be worn all the time specially while flying in close distance and lower altitude. We thought of giving the drone an obsticale avoiding functionality to 
@@ -136,6 +199,6 @@ Week of March 21st Plan:
 Asad figures out the radio communication with the drone
 Henry figures out PID control used witht the bldc motors.
 
-## Change in Plan
+
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
