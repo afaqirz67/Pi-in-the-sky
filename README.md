@@ -7,6 +7,7 @@ Table of Contents:
 * [SOLUTION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#solution)
 * [COMPONENTS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#components)
 * [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resources)
+* [PARTS EXPLAINED](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#parts-explained)
 * [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
 * [DEADLINES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#deadlines)
 * [WEEKLY PROGRESS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#weekly-progress)
