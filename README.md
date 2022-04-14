@@ -70,7 +70,7 @@ RPM = kv*volts
 
 [Fight controller](https://www.giogird.com/product/30-5x30-5mm-jhemcu-f7bt-dual-gyro-f722-f7-2-6s-flight-controller-aio-osd-5v-8v-bec-support-bluetooth-dji-air-unit-for-rc-drone/)   
 
-Battery:            Lipo
+[Battery](https://www.amazon.com/POVWAY-Battery-Softcase-Helicopter-Airplane/dp/B08L7PF1DF/ref=sr_1_4_sspa?keywords=3s%2Blipo%2Bbattery&qid=1649958723&sprefix=3s%2Bli%2Caps%2C60&sr=8-4-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFLUVE2TUhVQzBJOEwmZW5jcnlwdGVkSWQ9QTAwNzQxMDM0NEIxVENOOEMyNFAmZW5jcnlwdGVkQWRJZD1BMDY4NDg3MzM5VjBNTTkwQ0ZINTAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
 
 [Camera](https://www.google.com/shopping/product/1?q=wifi+module+for+drones&prds=epd:3335392841495737051,eto:3335392841495737051_0,pid:3335392841495737051&sa=X&ved=0ahUKEwiOivyMgYf2AhXAl3IEHZFsCxgQ9pwGCAk)
 
