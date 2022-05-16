@@ -66,7 +66,7 @@ RPM = kv*volts
 
 [Transmitter & Reciever](https://www.amazon.com/Flysky-FS-i6X-Transmitter-FS-iA6B-Receiver/dp/B0744DPPL8/ref=sr_1_10?crid=288X7LG7SWQRI&keywords=rc+controller&qid=1652710949&sprefix=rc+controller%2Caps%2C60&sr=8-10)
 
-[Fight controller]https://www.amazon.com/Accessories-Control-Controller-Quadcopter-Version/dp/B08B5TB9NR/ref=sr_1_3?keywords=spracing+f3+flight+controller&qid=1652711214&sprefix=spracing+f%2Caps%2C52&sr=8-3)   
+[Fight controller](https://www.amazon.com/Accessories-Control-Controller-Quadcopter-Version/dp/B08B5TB9NR/ref=sr_1_3?keywords=spracing+f3+flight+controller&qid=1652711214&sprefix=spracing+f%2Caps%2C52&sr=8-3)   
 
 [Battery](https://www.amazon.com/POVWAY-Battery-Softcase-Helicopter-Airplane/dp/B08L7PF1DF/ref=sr_1_4_sspa?keywords=3s%2Blipo%2Bbattery&qid=1649958723&sprefix=3s%2Bli%2Caps%2C60&sr=8-4-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFLUVE2TUhVQzBJOEwmZW5jcnlwdGVkSWQ9QTAwNzQxMDM0NEIxVENOOEMyNFAmZW5jcnlwdGVkQWRJZD1BMDY4NDg3MzM5VjBNTTkwQ0ZINTAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
 
