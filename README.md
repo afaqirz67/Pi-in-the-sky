@@ -64,9 +64,7 @@ RPM = kv*volts
 
 [Speed Controller Model](https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=as_li_ss_tl?ie=UTF8&qid=1549129228&sr=8-5&keywords=esc+30a&linkCode=sl1&tag=howto045-20&linkId=e1a4f6875272396432e2554f55ee0113&language=en_US)
 
-[Radio receiver](https://hobbyking.com/en_us/turnigy-tgy-i4x-mode-2-afhds-afhds-2a-switchable-4ch-transmitter-receiver.html)
-
-[Transmitter](https://www.horizonhobby.com/product/ar636b-dsmx-6-channel-as3x-sport-receiver/SPMAR636B.html) 
+[Transmitter & Reciever](https://www.amazon.com/Flysky-FS-i6X-Transmitter-FS-iA6B-Receiver/dp/B0744DPPL8/ref=sr_1_10?crid=288X7LG7SWQRI&keywords=rc+controller&qid=1652710949&sprefix=rc+controller%2Caps%2C60&sr=8-10)
 
 [Fight controller](https://www.giogird.com/product/30-5x30-5mm-jhemcu-f7bt-dual-gyro-f722-f7-2-6s-flight-controller-aio-osd-5v-8v-bec-support-bluetooth-dji-air-unit-for-rc-drone/)   
 
