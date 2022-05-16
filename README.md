@@ -72,7 +72,7 @@ RPM = kv*volts
 
 [Camera](https://www.google.com/shopping/product/1?q=wifi+module+for+drones&prds=epd:3335392841495737051,eto:3335392841495737051_0,pid:3335392841495737051&sa=X&ved=0ahUKEwiOivyMgYf2AhXAl3IEHZFsCxgQ9pwGCAk)
 
-[Props](https://www.google.com/shopping/product/1?q=propellers+drone&bih=937&biw=1920&rlz=1C1GCEU_enUS969US970&hl=en&prds=eto:2152026255289366735_1,pid:2152026255289366735)
+[Props](https://www.amazon.com/12pcs-iFlight-Nazgul-Tri-Blades-Propellers/dp/B095YLKJ37/ref=sr_1_5?keywords=5+inch+drone+propeller&qid=1652712063&sprefix=5+inch+droene+prop%2Caps%2C56&sr=8-5)
 
 [Battery Connector](https://www.amazon.com/Connector-Extension-RC-Helicopter-Quadcopter/dp/B0754JKHWW/ref=sr_1_3_sspa?keywords=xt60+parallel+connector&qid=1647396029&sprefix=xt60+para%2Caps%2C93&sr=8-3-spons&psc=1&smid=A2G15BXXX6915N&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNUdOMlo1TUtGUzE1JmVuY3J5cHRlZElkPUEwMDQ1MjcxS1lEMlJLQUZGUUFLJmVuY3J5cHRlZEFkSWQ9QTEwMTcwOTkxMzZBMTE1TFRaVDFIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
