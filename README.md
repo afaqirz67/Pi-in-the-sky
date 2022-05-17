@@ -57,8 +57,8 @@ deep into that. The concerning part for the moment is figuring out the exact boa
 
 ### Components 
 
-[Brushless Motor](https://www.amazon.com/12pcs-iFlight-Nazgul-Tri-Blades-Propellers/dp/B095YLKJ37/ref=sr_1_5keywords=5+inch+drone+propeller&qid=1652712063&sprefix=5+inch+droene+prop%2Caps%2C56&sr=8-5)      
-KV: 2300
+[Brushless Motor](https://rctimer.com/dys-samguk-series-wei-2207-2300kv-2600kv-brushless-motor-for-rc-drone-fpv-racing-p1094.html)      
+
 RPM = kv*volts
 
 
