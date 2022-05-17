@@ -57,7 +57,7 @@ deep into that. The concerning part for the moment is figuring out the exact boa
 
 ### Components 
 
-Brushless Motor [SAMGUK serious KV 2300](https://rctimer.com/dys-samguk-series-wei-2207-2300kv-2600kv-brushless-motor-for-rc-drone-fpv-racing-p1094.html)      
+[Brushless Motor](https://rctimer.com/dys-samguk-series-wei-2207-2300kv-2600kv-brushless-motor-for-rc-drone-fpv-racing-p1094.html)      
 
 RPM = kv*volts
 
