@@ -34,12 +34,10 @@ ________________________________________________________________________________
 
 #### Very Rough Sketches:
 
-https://www.youtube.com/watch?v=LVoPGlNvHhw   (Example of how our model will look like
+[Example of how our model will look like](https://www.youtube.com/watch?v=LVoPGlNvHhw)
 
 #### Very Rough Designs 
-https://droneomega.com/drone-motor-essentials/
-
-https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/
+[Learn Robotics](https://www.learnrobotics.org/blog/3d-printed-drones-thingiverse/)
 
 ### Solution
 
