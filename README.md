@@ -57,7 +57,7 @@ deep into that. The concerning part for the moment is figuring out the exact boa
 
 ### Components 
 
-[Brushless Motor](https://rctimer.com/dys-samguk-series-wei-2207-2300kv-2600kv-brushless-motor-for-rc-drone-fpv-racing-p1094.html)      
+Brushless Motor [SAMGUK serious KV 2300](https://rctimer.com/dys-samguk-series-wei-2207-2300kv-2600kv-brushless-motor-for-rc-drone-fpv-racing-p1094.html)      
 
 RPM = kv*volts
 
@@ -86,24 +86,11 @@ ________________________________________________________________________________
 * [How DC brushless motors work?](https://www.youtube.com/watch?v=bCEiOnuODac)
 * [MOTOR POWER SUPPLY SPECIFICATIONS](https://www.hobbywing.com/products/enpdf/2205-2300KV.pdf)
 * [Arduino Brushless Motor Control Tutorial | ESC | BLDC](https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/)
+* [HOW TO USE/WIRE FLIGHT CONTROLLER](https://www.youtube.com/watch?v=yIEAu8ig6V0)
+* [Drone motor calculator](https://www.omnicalculator.com/other/drone-motor)
+* [Info on Weight Ratio](https://top-10-drones.com/choose-motor-propeller-quadcopter/)
+* [Motor specifications](https://www.getfpv.com/dys-samguk-series-wei-2207-2300kv-motor.html)
 
-HOW TO USE/WIRE FLIGHT CONTROLLER:
-*  https://www.youtube.com/watch?v=yIEAu8ig6V0
-
-Drone motor calculator 
-https://www.omnicalculator.com/other/drone-motor
-Info on Weight Ratio
-https://top-10-drones.com/choose-motor-propeller-quadcopter/
-
-Motor specifications
-https://www.getfpv.com/dys-samguk-series-wei-2207-2300kv-motor.html
-
-ESC specs:
-https://www.rcelectricparts.com/30a-rc-brushless-motor-electric-speed-controller-esc-3a-ubec-with-xt60--35mm-bullet-plugs.html
-
-
-
-Motor model: SAMGUK serious KV 2300
 
 
 ![pasted image 0](https://user-images.githubusercontent.com/56890879/152362260-7c9233a2-e19b-481a-9829-89f53286319e.png)
