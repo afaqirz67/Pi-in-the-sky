@@ -13,6 +13,7 @@ Table of Contents:
 * [WEEKLY PROGRESS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#weekly-progress)
 * [CHANGE IN PLAN](https://github.com/afaqirz67/Pi-in-the-sky#change-in-plan)
 * [CAD DESIGNS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#cad-designs)
+* [SUGGESTIONS]()
 
 
 
@@ -192,5 +193,9 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 ![4 0](https://user-images.githubusercontent.com/56890879/168860580-9c1177e1-e6a8-4b79-b598-60540a1d15d3.png)
 ![4 0a](https://user-images.githubusercontent.com/56890879/168860587-ed27d341-c6dd-4bbb-ad02-b83631d39e77.png)
 
+
+## SUGGESTIONS
+Use this type of ESC instead of the ones we had because it does exactly what those other ESCs will do and it will save you a lot of space and weight.
+[LINK](https://www.banggood.com/Eachine-Wizard-X220S-FPV-Racer-RC-Drone-Spare-Part-4-in-1-30A-ESC-BLHeli_S-2-5S-Dshot600-p-1172948.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=minha-us-pc&currency=USD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_us&utm_content=nolan&utm_campaign=aceng-pla-usa-all4-20220402&ad_id=513043829882&gclid=CjwKCAjwj42UBhAAEiwACIhADiSV8H7zgwVzK7E-7L0V68syqlYBK65fGoz2y2oISFr4y5m8q1ImRhoCBToQAvD_BwE&scrlybrkr=0ac48c88)
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
