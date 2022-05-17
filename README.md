@@ -160,15 +160,11 @@ Smoothing is not required because there is little to no error.
 - RX and TX protocols may use a common communication protocol, or they might use two different protocols
 
 ![Tx-RX-communication-protocol-visual](https://user-images.githubusercontent.com/56890879/159382147-fa7824d7-28be-4d57-9c04-29e66ac1e0ae.jpg)
-Image from:
+Image from: [OscarLiang](https://oscarliang.com/rc-protocols/)
 
-https://oscarliang.com/rc-protocols/
-
-Other sources:
-
-http://paulnurkkala.com/pwmppms-bus/
-
-https://oscarliang.com/rc-protocols/
+Sources:
+[Paul Nurk Kala](http://paulnurkkala.com/pwmppms-bus/)
+[OscarLiang](https://oscarliang.com/rc-protocols/)
 
 
 ## Safety protocols
