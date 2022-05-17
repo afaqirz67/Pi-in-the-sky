@@ -12,6 +12,7 @@ Table of Contents:
 * [DEADLINES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#deadlines)
 * [WEEKLY PROGRESS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#weekly-progress)
 * [CHANGE IN PLAN](https://github.com/afaqirz67/Pi-in-the-sky#change-in-plan)
+* [CAD DESIGNS]()
 
 
 
@@ -180,7 +181,7 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 ![drone-deadlines](https://user-images.githubusercontent.com/56890879/156189351-133df5f4-e2e4-4c17-a8d2-8cc43b7c152e.png)
 
 
-
+## CAD DESIGNS
 
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
