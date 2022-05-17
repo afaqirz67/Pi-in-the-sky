@@ -83,7 +83,7 @@ ________________________________________________________________________________
 
 ## Resources
 
-* https://www.youtube.com/watch?v=bCEiOnuODac
+* [How DC brushless motors work?](https://www.youtube.com/watch?v=bCEiOnuODac)
 * [MOTOR POWER SUPPLY SPECIFICATIONS](https://www.hobbywing.com/products/enpdf/2205-2300KV.pdf)
 * https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
 * https://www.google.com/search?q=blheli_s+esc&rlz=1C1GCEU_enUS970US970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwijx_6QtvX1AhVZgnIEHZ1CClkQ_AUoAXoECAEQAw&biw=1924&bih=955&dpr=1#imgrc=0RJoredFywCU-M
