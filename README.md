@@ -181,12 +181,6 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 
 
 
-## Weekl y Progress
-
-Week of March 21st Plan:
-Asad figures out the radio communication with the drone
-Henry figures out PID control used witht the bldc motors.
-
 
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
