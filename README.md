@@ -182,6 +182,15 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 
 
 ## CAD DESIGNS
+![0 0](https://user-images.githubusercontent.com/56890879/168860504-95238607-ce14-490f-8ed7-615d432de739.png)
+![initailDesign](https://user-images.githubusercontent.com/56890879/168860674-976942de-8d58-48fc-878f-96b31076e8b7.png)
+![1 2](https://user-images.githubusercontent.com/56890879/168860517-213035ba-01aa-4cc5-8340-85966f712dd7.png)
+![2 0](https://user-images.githubusercontent.com/56890879/168860527-ecf100a4-e33c-4194-aa18-5ccf80f49b09.png)
+![2 1](https://user-images.githubusercontent.com/56890879/168860538-5510cb27-4599-44f5-9d88-0bc60edf028d.png)
+![2 2](https://user-images.githubusercontent.com/56890879/168860550-ab69ccc9-fa8a-40bd-8117-e277b07cda1a.png)
+![3 0](https://user-images.githubusercontent.com/56890879/168860558-af61d8d5-bb60-48f6-845f-d33f6a57abf2.png)
+![4 0](https://user-images.githubusercontent.com/56890879/168860580-9c1177e1-e6a8-4b79-b598-60540a1d15d3.png)
+![4 0a](https://user-images.githubusercontent.com/56890879/168860587-ed27d341-c6dd-4bbb-ad02-b83631d39e77.png)
 
 
 # [Back to the TOP](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
