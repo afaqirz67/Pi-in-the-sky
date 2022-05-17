@@ -62,7 +62,7 @@ deep into that. The concerning part for the moment is figuring out the exact boa
 RPM = kv*volts
 
 
-[Speed Controller Model](https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=as_li_ss_tl?ie=UTF8&qid=1549129228&sr=8-5&keywords=esc+30a&linkCode=sl1&tag=howto045-20&linkId=e1a4f6875272396432e2554f55ee0113&language=en_US)
+[Speed Controller](https://www.rcelectricparts.com/30a-rc-brushless-motor-electric-speed-controller-esc-3a-ubec-with-xt60--35mm-bullet-plugs.html)
 
 [Transmitter & Reciever](https://www.amazon.com/Flysky-FS-i6X-Transmitter-FS-iA6B-Receiver/dp/B0744DPPL8/ref=sr_1_10?crid=288X7LG7SWQRI&keywords=rc+controller&qid=1652710949&sprefix=rc+controller%2Caps%2C60&sr=8-10)
 
@@ -102,8 +102,6 @@ https://www.getfpv.com/dys-samguk-series-wei-2207-2300kv-motor.html
 ESC specs:
 https://www.rcelectricparts.com/30a-rc-brushless-motor-electric-speed-controller-esc-3a-ubec-with-xt60--35mm-bullet-plugs.html
 
-2300kv
-https://ae01.alicdn.com/kf/HTB1Wqs_gPqhSKJjSspnxh779XXak.jpeg
 
 
 Motor model: SAMGUK serious KV 2300
