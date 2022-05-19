@@ -10,7 +10,6 @@ Table of Contents:
 * [PARTS EXPLAINED](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#parts-explained)
 * [SAFETY PROTOCOLS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#safety-protocols)
 * [DEADLINES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#deadlines)
-* [WEEKLY PROGRESS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#weekly-progress)
 * [CHANGE IN PLAN](https://github.com/afaqirz67/Pi-in-the-sky#change-in-plan)
 * [CAD DESIGNS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#cad-designs)
 * [SUGGESTIONS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#suggestions)
