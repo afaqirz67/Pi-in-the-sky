@@ -3,7 +3,6 @@
 
 Table of Contents:
 * [CONSTRAINS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#constraints)
-* [IDEAS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#ideas)
 * [SOLUTION](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#solution)
 * [COMPONENTS](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#components)
 * [RESOURCES](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#resources)
@@ -27,8 +26,6 @@ function. It should drop seeds to help the environment or have extra long batter
 Drones are very hard to make and if we want to have a special drone, it will take lots of tests and therefore time. This project will take tons of research to fully complete. We will have to specifically research each aspect of the project and plan out the physics of it. 
 Live streaming of 360 cameras with VR is another obstacle to be overcomed and needs a significant amount of research and analysis
 
-### Ideas
-#### Gravity Sensor vs. Accelerometer (research):
 
 ________________________________________________________________________________________________
 
