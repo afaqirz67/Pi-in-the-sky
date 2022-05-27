@@ -187,22 +187,30 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 
 ## PICTURES
 
+![IMG_4846](https://user-images.githubusercontent.com/56890879/170741280-b8b61fcd-d148-4d0d-83e1-378c20be05cd.jpg)
 
-![IMG_4846](https://user-images.githubusercontent.com/56890879/170740448-eb15a53f-2567-47c7-8d41-dc8e853677f8.jpg)
-![IMG_4926](https://user-images.githubusercontent.com/56890879/170740461-c4aae8bc-d099-4d3a-a73e-3e7463f9af72.jpg)
-![IMG_4986](https://user-images.githubusercontent.com/56890879/170740466-9c6df4f7-a113-4263-ac90-af97b1520622.jpg)
-![IMG_5049](https://user-images.githubusercontent.com/56890879/170740472-750b6860-e26b-454d-a347-8316a6868f52.jpg)
-![IMG_5589](https://user-images.githubusercontent.com/56890879/170740482-c6601342-4921-45b0-9b7a-4f1a505e822e.jpg)
-!![IMG_5593](https://user-images.githubusercontent.com/56890879/170740496-5e51373c-39e4-4676-84e5-dd2819f971ea.jpg)
-[IMG_5590](https://user-images.githubusercontent.com/56890879/170740487-8e09d1b0-909b-49ea-af22-805b5ae10daf.jpg)
-![IMG_5602](https://user-images.githubusercontent.com/56890879/170740508-4678e276-4615-4156-8d46-c570e3e554dd.jpg)
+![IMG_4848](https://user-images.githubusercontent.com/56890879/170741286-11031130-8063-48f7-951e-4a26a171cd9b.png)
+
+
+![IMG_4986](https://user-images.githubusercontent.com/56890879/170741290-ab78418e-1d9b-4ac5-bad1-463d4208c266.png)
+![IMG_5049](https://user-images.githubusercontent.com/56890879/170741294-746454c6-258e-48bc-8829-49c2295596d8.png)
+
+![IMG_5051](https://user-images.githubusercontent.com/56890879/170741301-74445b4c-7b5d-4225-86a3-8a1183dd49bf.png)
+![IMG_5589](https://user-images.githubusercontent.com/56890879/170741309-58328070-381f-4d36-bd8c-fef332b4da08.png)
+![IMG_5602](https://user-images.githubusercontent.com/56890879/170741312-899e21f4-5750-45ba-9179-b47b6fd05bfe.png)
+![IMG_5603](https://user-images.githubusercontent.com/56890879/170741318-5d9c4033-8c0a-4330-8dd6-af361f74cf37.png)
+![IMG_5735](https://user-images.githubusercontent.com/56890879/170741328-78d0825e-a61a-448d-9aa0-1f79860975fc.png)
+![IMG_5735r](https://user-images.githubusercontent.com/56890879/170741343-a67c5a4a-5dfc-4f15-944a-bde4f4564805.png)
+
+
+
 
 
 ## SUGGESTIONS
 Use this type of ESC instead of the ones we had because it does exactly what those other ESCs will do and it will save you a lot of space and weight.
 [LINK](https://www.banggood.com/Eachine-Wizard-X220S-FPV-Racer-RC-Drone-Spare-Part-4-in-1-30A-ESC-BLHeli_S-2-5S-Dshot600-p-1172948.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=minha-us-pc&currency=USD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_us&utm_content=nolan&utm_campaign=aceng-pla-usa-all4-20220402&ad_id=513043829882&gclid=CjwKCAjwj42UBhAAEiwACIhADiSV8H7zgwVzK7E-7L0V68syqlYBK65fGoz2y2oISFr4y5m8q1ImRhoCBToQAvD_BwE&scrlybrkr=0ac48c88)
 
-![IMG_5927](https://user-images.githubusercontent.com/56890879/170740570-ca5d508d-4757-45c7-9b2b-93b9bd80bd46.jpg)
+![IMG_5927](https://user-images.githubusercontent.com/56890879/170741379-31d47320-5967-485a-87dc-a70f6dc32598.png)
 
 
 
