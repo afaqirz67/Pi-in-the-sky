@@ -215,10 +215,21 @@ and read about the saftey measuerments and how to maintain a lipo battery. Lipo 
 you toss them away. You will have to regualte the volatage it has according to your needs and usage. You'll have to know how much current you're gonna need so that
 you purchase a lipo accordingly because if you overuse it - it's going to end up ugly for you. Down this paragraph is a pucture of the first lipo batteries we were 
 using and apparantly they went bad. One of the cells does not work at all and the entire thing looks squishy. If it's used in such condition - you shouldn't be 
-surprised if it explodes or catches fire. I strongly recommed you go through [this](https://www.thedronegirl.com/2015/02/07/lipo-battery/) artcile and read through all the points carefully before using a lipo.
+surprised if it explodes or catches fire. I strongly recommed you go through [this](https://www.thedronegirl.com/2015/02/07/lipo-battery/) artcile and read through all 
+the points carefully before using a lipo.
 
 ![Screenshot 2022-05-27 124715](https://user-images.githubusercontent.com/56890879/170743512-adb9e84e-d168-4519-8951-ed73c237569f.png)
 
+### ESC
+The ESCs we used for our drone works really well and is easy to use. The only downside to it is it takes a lot of space and adds to the overall weight of the drone 
+compared to a 4 in 1 ESC for a quadcopter. That would make your life much easier. The frame will not look as messey. 
 
+### Capacitor
+It is always a good idea to use a capacitor to regulate the amount of volatage going in to the compartments. Capacitor will prevent power surge or popwer defeciency. 
+It stores the energy if there is a voltage spike and releases it wehen there is a power defeciency in the circuit. It would prevent the drone from being too shakey. I 
+would mount a relitavley high capacitor on my power distributor board so that all the parts get the exact intended amount of voltage.
+
+### Saftey
+Henry...?
 
 # [Back to the Top](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
