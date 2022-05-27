@@ -209,6 +209,14 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 Use this type of ESC instead of the ones we had because it does exactly what those other ESCs will do and it will save you a lot of space and weight.
 [LINK](https://www.banggood.com/Eachine-Wizard-X220S-FPV-Racer-RC-Drone-Spare-Part-4-in-1-30A-ESC-BLHeli_S-2-5S-Dshot600-p-1172948.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=minha-us-pc&currency=USD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_us&utm_content=nolan&utm_campaign=aceng-pla-usa-all4-20220402&ad_id=513043829882&gclid=CjwKCAjwj42UBhAAEiwACIhADiSV8H7zgwVzK7E-7L0V68syqlYBK65fGoz2y2oISFr4y5m8q1ImRhoCBToQAvD_BwE&scrlybrkr=0ac48c88)
 
+### LIPO BATTERY USAGE
+It is crucial for anyone whose just getting started into using lipo battries to know the saftey requirements. It strongly suggest that you go through a couple articles 
+and read about the saftey measuerments and how to maintain a lipo battery. Lipo battries are not like the regular double A batteries that once you're done with them 
+you toss them away. You will have to regualte the volatage it has according to your needs and usage. You'll have to know how much current you're gonna need so that
+you purchase a lipo accordingly because if you overuse it - it's going to end up ugly for you. Down this paragraph is a pucture of the first lipo batteries we were 
+using and apparantly they went bad. One of the cells does not work at all and the entire thing looks squishy. If it's used in such condition - you shouldn't be 
+surprised if it explodes or catches fire. I strongly recommed you go through [this](https://www.thedronegirl.com/2015/02/07/lipo-battery/) artcile and read through all the points carefully before using a lipo.
+
 ![Screenshot 2022-05-27 124715](https://user-images.githubusercontent.com/56890879/170743512-adb9e84e-d168-4519-8951-ed73c237569f.png)
 
 
