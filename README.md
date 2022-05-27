@@ -185,9 +185,25 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 ![3 0](https://user-images.githubusercontent.com/56890879/168860558-af61d8d5-bb60-48f6-845f-d33f6a57abf2.png)
 ![4 0a](https://user-images.githubusercontent.com/56890879/168860587-ed27d341-c6dd-4bbb-ad02-b83631d39e77.png)
 
+## PICTURES
+
+
+![IMG_4846](https://user-images.githubusercontent.com/56890879/170740448-eb15a53f-2567-47c7-8d41-dc8e853677f8.jpg)
+![IMG_4926](https://user-images.githubusercontent.com/56890879/170740461-c4aae8bc-d099-4d3a-a73e-3e7463f9af72.jpg)
+![IMG_4986](https://user-images.githubusercontent.com/56890879/170740466-9c6df4f7-a113-4263-ac90-af97b1520622.jpg)
+![IMG_5049](https://user-images.githubusercontent.com/56890879/170740472-750b6860-e26b-454d-a347-8316a6868f52.jpg)
+![IMG_5589](https://user-images.githubusercontent.com/56890879/170740482-c6601342-4921-45b0-9b7a-4f1a505e822e.jpg)
+!![IMG_5593](https://user-images.githubusercontent.com/56890879/170740496-5e51373c-39e4-4676-84e5-dd2819f971ea.jpg)
+[IMG_5590](https://user-images.githubusercontent.com/56890879/170740487-8e09d1b0-909b-49ea-af22-805b5ae10daf.jpg)
+![IMG_5602](https://user-images.githubusercontent.com/56890879/170740508-4678e276-4615-4156-8d46-c570e3e554dd.jpg)
+
 
 ## SUGGESTIONS
 Use this type of ESC instead of the ones we had because it does exactly what those other ESCs will do and it will save you a lot of space and weight.
 [LINK](https://www.banggood.com/Eachine-Wizard-X220S-FPV-Racer-RC-Drone-Spare-Part-4-in-1-30A-ESC-BLHeli_S-2-5S-Dshot600-p-1172948.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=minha-us-pc&currency=USD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_us&utm_content=nolan&utm_campaign=aceng-pla-usa-all4-20220402&ad_id=513043829882&gclid=CjwKCAjwj42UBhAAEiwACIhADiSV8H7zgwVzK7E-7L0V68syqlYBK65fGoz2y2oISFr4y5m8q1ImRhoCBToQAvD_BwE&scrlybrkr=0ac48c88)
+
+![IMG_5927](https://user-images.githubusercontent.com/56890879/170740570-ca5d508d-4757-45c7-9b2b-93b9bd80bd46.jpg)
+
+
 
 # [Back to the Top](https://github.com/afaqirz67/Pi-in-the-sky/blob/main/README.md#pi-in-the-sky)
