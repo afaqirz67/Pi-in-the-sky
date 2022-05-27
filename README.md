@@ -187,7 +187,7 @@ Rough sketch of how the drone will look. There will be surly more details and ch
 
 ## PICTURES
 
-![IMG_4846](https://user-images.githubusercontent.com/56890879/170741280-b8b61fcd-d148-4d0d-83e1-378c20be05cd.jpg)
+![3 44](https://user-images.githubusercontent.com/56890879/170741280-b8b61fcd-d148-4d0d-83e1-378c20be05cd.jpg)
 ![IMG_4848](https://user-images.githubusercontent.com/56890879/170741286-11031130-8063-48f7-951e-4a26a171cd9b.png)
 ![IMG_4986](https://user-images.githubusercontent.com/56890879/170741290-ab78418e-1d9b-4ac5-bad1-463d4208c266.png)
 ![IMG_5049](https://user-images.githubusercontent.com/56890879/170741294-746454c6-258e-48bc-8829-49c2295596d8.png)
